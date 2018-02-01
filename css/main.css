@@ -270,23 +270,19 @@ and (max-width : 375px) {
 		align-items: center;
 	}
 	header .header-wrapper {
-		margin: 0;
+		margin-bottom: 20px;
 	}
 	header .header-wrapper .watch-wrapper{
 		margin: 0;
 	}
 	header .header-wrapper a {
-	    margin: 0px;
+	    margin: 0;
     }
-
 	header .header-wrapper a div{
 	    width: 40px;
 	    height: 40px;
 	    margin-top: 20px;
 	}
-	header .header-wrapper .col-wrapper {
-	    margin-top: 20px;
-    }
 	button {
     	padding: 15px 80px;
     	margin: 3px;
